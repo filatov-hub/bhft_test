@@ -1,4 +1,4 @@
-# bhfm_test
+# bhft_test
 
 **Тестовое задание реализует два основных компонента:**
 1. Quote Book (`md::store::quote::BookStore`);
